@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.SceneManegement;
+//using UnityEngine.SceneManegement;
 
 public class UI_Interracion{
 
@@ -14,3 +14,4 @@ public class UI_Interracion{
 
     }
 }
+
