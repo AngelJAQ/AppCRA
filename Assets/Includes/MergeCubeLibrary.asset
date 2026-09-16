@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MergeCubeLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5275834950489044589
+  m_GuidHigh: 13058648121611704497
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5673692138797104529
+      m_GuidHigh: 4713725109573219746
+    m_SerializedTextureGuid:
+      m_GuidLow: 6198315277705758382
+      m_GuidHigh: 11091426154238851627
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Cara1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5734053265779979915
+      m_GuidHigh: 183261076401010622
+    m_SerializedTextureGuid:
+      m_GuidLow: 11508000533523513318
+      m_GuidHigh: 2992846739691660987
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Cara2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5326418093850561988
+      m_GuidHigh: 6850065671041913768
+    m_SerializedTextureGuid:
+      m_GuidLow: 8422892136951343939
+      m_GuidHigh: 16818828201246315563
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Cara3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5112489021627328219
+      m_GuidHigh: 5753089493946791864
+    m_SerializedTextureGuid:
+      m_GuidLow: 16182613342216418800
+      m_GuidHigh: 4732121718748343515
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Cara4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5470869640792989524
+      m_GuidHigh: 12222990961034126523
+    m_SerializedTextureGuid:
+      m_GuidLow: 10864088960388462517
+      m_GuidHigh: 3591082589373329610
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Cara5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4719516355868698973
+      m_GuidHigh: 156197649599753124
+    m_SerializedTextureGuid:
+      m_GuidLow: 15250549775838242032
+      m_GuidHigh: 10405633997424152683
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Cara6
+    m_Texture: {fileID: 0}
